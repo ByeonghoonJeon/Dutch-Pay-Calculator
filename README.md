@@ -12,3 +12,5 @@ Using while loop and conditionals, this program evaluate correctness of user's i
 This function prevents users from facing unexpected errors.
 
 When the user input total bill, tip is added and the total amount is divided by number of bill sharing members. 
+
+![image](/DutchPayProgrammImage)
