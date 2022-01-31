@@ -1,5 +1,6 @@
 # Dutch-Pay-Calculator
 Dutch pay calculator including tips.
+This calculator divides total bill amount by number of people.
 
 # How to use?
 1. Input total amount of the bill. (except tip)
@@ -13,4 +14,4 @@ This function prevents users from facing unexpected errors.
 
 When the user input total bill, tip is added and the total amount is divided by number of bill sharing members. 
 
-![image](/DutchpayProgramImage.JPG)
+![image](/DutchpayProgarmImage.JPG)
